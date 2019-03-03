@@ -1,0 +1,133 @@
+Added Component: Designator=R1(ERA-0603)
+Added Component: Designator=R2(ERA-0603)
+Added Component: Designator=R3(ERA-0603)
+Added Component: Designator=R4(ERA-0603)
+Added Component: Designator=R5(ERA-0603)
+Added Component: Designator=R6(ERA-0603)
+Added Component: Designator=R7(ERA-0603)
+Added Component: Designator=R8(ERA-0603)
+Added Component: Designator=R9(ERA-0603)
+Added Component: Designator=R10(ERA-0603)
+Added Component: Designator=R11(ERA-0603)
+Added Component: Designator=R12(ERA-0603)
+Added Component: Designator=R13(ERA-0603)
+Added Component: Designator=R14(ERA-0603)
+Added Component: Designator=R15(ERA-0603)
+Added Component: Designator=R16(ERA-0603)
+Added Component: Designator=R17(ERA-0603)
+Added Component: Designator=R18(ERA-0603)
+Added Component: Designator=R19(ERA-0603)
+Added Component: Designator=R20(ERA-0603)
+Added Component: Designator=R21(ERA-0603)
+Added Component: Designator=R22(ERA-0603)
+Added Component: Designator=R23(ERA-0603)
+Added Component: Designator=R24(ERA-0603)
+Added Component: Designator=R25(ERA-0603)
+Added Component: Designator=R26(ERA-0603)
+Added Component: Designator=R27(ERA-0603)
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R9-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R11-2
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R13-2
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R15-2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R16-1
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R17-2
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=R18-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=R19-2
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-1
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=R21-2
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=R22-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=R23-2
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=R24-1
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=R25-2
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=R26-1
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=R27-2
+Added Net: Name=NetR26_2
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R1 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R2 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R3 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R4 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R5 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R6 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R7 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R8 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R9 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R10 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R11 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R12 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R13 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R14 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R15 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R16 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R17 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R18 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R19 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R20 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R21 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R22 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R23 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R24 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R25 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R26 ERA3Y
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component R27 ERA3Y
+Added Room: Name=ISO-ASS[3]-VB

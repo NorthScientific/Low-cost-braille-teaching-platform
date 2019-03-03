@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Stand Alone Braille Tutor.PrjPCB
+[Project2]
+ProjectPath=BC- American Standard Sign [3]\BC- American Standard Sign [3].LibPkg
+[Project3]
+ProjectPath=SABT-PORTS\Interface Connector.LibPkg
+[Project4]
+ProjectPath=Stand Alone Braille Tutor VB.PrjPCB
+[Project5]
+ProjectPath=SABT-PORTS\5V.LibPkg

@@ -1,0 +1,6 @@
+Added Component: Designator=5v(5v)
+Added Pin To Net: NetName=Net5v_0 Pin=5v-0
+Added Pin To Net: NetName=Net5v_0 Pin=R1-2
+Added Net: Name=Net5v_0
+Added Member To Class: ClassName=ISO-ASS[3]-VB Member=Component 5v
+Added Room: Name=ISO-ASS[3]-VB
